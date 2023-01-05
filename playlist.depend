@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1668319799 source:d:\struktur data\praktikum\playlist\main.cpp
+	"CSLL.h"
+
+1668319721 d:\struktur data\praktikum\playlist\csll.h
+	<iostream>
+	<windows.h>
+
+1668319721 source:d:\struktur data\praktikum\playlist\csll.cpp
+	"CSLL.h"
+
